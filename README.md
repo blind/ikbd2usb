@@ -7,8 +7,9 @@ IKDB is the keyboard controller found in Atari ST and later Atari computers.
 Connector
 ---------
 
-*** Internal connector for ST/Falcon
+### Internal connector for ST/Falcon
 
+<pre>
 1	+   - Ground
 2	-   - NC (key)
 3	+   - floppy light
@@ -17,6 +18,7 @@ Connector
 6	+   - Tx data (Atari Tx - keyboard Rx)
 7	+   - Reset (active low)
 8   +   - Ground
+</pre>
 
 Protocol
 --------
